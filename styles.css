@@ -858,7 +858,7 @@ nav .wrapper {
 /* FOOTER */
 
 .footer {
-  background-color: var(--black);
+  background-color: #000000;
   padding: 6rem 1rem;
   line-height: 3rem;
 }
